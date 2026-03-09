@@ -1,4 +1,5 @@
 # Hi, I'm Ashutosh Misra 👋
+🎓 B.Tech Computer Science Student 
 
 
 <!--
